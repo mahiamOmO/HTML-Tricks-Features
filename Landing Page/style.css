@@ -83,6 +83,7 @@ body {
 
 .hero .hero-image {
     width: 380px; /* Fixed width */
+    height: 380px; /* Fixed height */
     display: flex;
     justify-content: center;
     align-items: center;
