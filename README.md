@@ -89,7 +89,7 @@ HTML is the king of web development. No matter which technology you use, everyth
 
 ```html
  <!-- 'kbd' element -->
-         <div>Press<kbd>ctrl</kbd> & <kbd>tab</kbd> to change browser tab </div>
+         <div>Press<kbd>ctrl</kbd> & <kbd>tab</kbd> to change browser tab </div> 
 ```
 ##### Output:
 
