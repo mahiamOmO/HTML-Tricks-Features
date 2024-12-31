@@ -58,7 +58,7 @@ HTML is the king of web development. No matter which technology you use, everyth
             <p>Follow me on Github</p>
          </details>
 ```
-###Output:
+#### Output:
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2vuraagihz2lksqvp8e.png)
 
 #### 5.Accept Attribute:
